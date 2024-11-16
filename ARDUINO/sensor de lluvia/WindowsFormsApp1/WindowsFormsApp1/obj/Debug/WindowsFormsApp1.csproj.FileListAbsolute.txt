@@ -1,0 +1,13 @@
+C:\Users\ameli\Documents\ARCHIVOS UNIDAD 3\ARDUINO\sensor de lluvia\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\ameli\Documents\ARCHIVOS UNIDAD 3\ARDUINO\sensor de lluvia\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\ameli\Documents\ARCHIVOS UNIDAD 3\ARDUINO\sensor de lluvia\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\ameli\Documents\ARCHIVOS UNIDAD 3\ARDUINO\sensor de lluvia\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IO.Ports.dll
+C:\Users\ameli\Documents\ARCHIVOS UNIDAD 3\ARDUINO\sensor de lluvia\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IO.Ports.xml
+C:\Users\ameli\Documents\ARCHIVOS UNIDAD 3\ARDUINO\sensor de lluvia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\ameli\Documents\ARCHIVOS UNIDAD 3\ARDUINO\sensor de lluvia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\ameli\Documents\ARCHIVOS UNIDAD 3\ARDUINO\sensor de lluvia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\ameli\Documents\ARCHIVOS UNIDAD 3\ARDUINO\sensor de lluvia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\ameli\Documents\ARCHIVOS UNIDAD 3\ARDUINO\sensor de lluvia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\ameli\Documents\ARCHIVOS UNIDAD 3\ARDUINO\sensor de lluvia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\ameli\Documents\ARCHIVOS UNIDAD 3\ARDUINO\sensor de lluvia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\ameli\Documents\ARCHIVOS UNIDAD 3\ARDUINO\sensor de lluvia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
